@@ -20,7 +20,7 @@
 }
 
 .nav-link a {
-    text-decoration: underline;
+    text-decoration: none;
     color: black;
 }
 
