@@ -9,14 +9,14 @@
     font-weight: 400;
     line-height: normal;
     color: black;
-    justify-content: right;
-    margin-right: 5%;
+    justify-content: left;
+    margin-left: 5%;
     
 }
 
 .nav-link {
     padding-top: 25px;
-    padding-right: 5%;
+    padding-left: 5%;
 }
 
 .nav-link a {

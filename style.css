@@ -8,20 +8,20 @@
     font-style: normal;
     font-weight: 400;
     line-height: normal;
-    color: black;
-    justify-content: right;
-    margin-right: 5%;
+    color: blue;
+    justify-content: left;
+    margin-left: 5%;
     
 }
 
 .nav-link {
     padding-top: 25px;
-    padding-right: 5%;
+    padding-left: 5%;
 }
 
 .nav-link a {
     text-decoration: none;
-    color: black;
+    color: blue;
 }
 
 .nav-link a:hover {
@@ -36,7 +36,7 @@
     background-color: #ffffff;
     z-index: 1;
     border: solid;
-    border-color: black;
+    border-color: blue;
     border-radius: 5px;
 }
 
@@ -47,7 +47,7 @@
     font-style: normal;
     font-weight: 400;
     line-height: normal;
-    color: black;
+    color: blue;
     padding: 12px 16px;
     text-decoration: none;
     display: block;
@@ -70,7 +70,7 @@
     width: 754px;
     height: 150px;
 
-    color: #030303;
+    color: blue;
     font-family: "Libre Baskerville";
     font-size: 20px; 
     font-weight: lighter;
@@ -94,7 +94,7 @@
 
 .project-container {
     width: 494px;
-    padding-right: 5%;
+    padding-left: 5%;
     margin-bottom: 3%;
 }
 
